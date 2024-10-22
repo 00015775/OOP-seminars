@@ -1,1 +1,1 @@
-project name: csf-sem2
+Go to IdealProject inside of the src
